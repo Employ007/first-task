@@ -1,0 +1,145 @@
+body {
+position:unset;
+width: 1440px;
+height: 900px;
+left: 0px;
+top: 0px;
+background: linear-gradient(89.99deg, #269486 0.01%, #11574E 133.95%);
+height: 1385px;
+    
+}
+
+.navbar {
+    display: inline-block;
+    border: 2px solid black;
+    width: 1583px;
+    margin-left: -12px;
+    margin-top: -9px;
+    position: unset;
+    background-color: #17786C;
+    background-repeat: no-repeat;
+}
+.txt{
+    position: absolute;
+    top: 544px;
+    left: 217px;
+    font-size: large;
+    color: whitesmoke;
+    width: 521px;
+    font-family: 'Lato';
+    font-style: normal;
+}
+.navbar h4 {
+    display: inline-block;
+    margin-left: 125px;
+    color: white;
+
+}
+.b button a{
+    text-decoration: none;
+    color: black;
+}
+.b button:hover{
+cursor: pointer;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.st {
+    margin-left: 302px;
+}
+
+.btn img {
+    width: 14px;
+    padding-left: 307px;
+    padding-right: 5px;
+}
+
+.num {
+    color: white;
+}
+
+.image {
+
+    position: absolute;
+    width: 937.5px;
+    left: 645.75px;
+    top: 64px;
+    bottom: 2.33px;
+
+}
+.b button
+{
+    position: absolute;
+    top: 611px;
+    left: 217px;
+    width: 164px;
+    height: 37px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+}
+.position {
+    position: absolute;
+    font-family: 'Lato';
+    font-style: normal;
+    font-size: 13px;
+    line-height: 20px;
+    top: 265px;
+    left: 217px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #F5F9FC;
+}
+.b span{
+    position: absolute;
+    left: 217px;
+    top: 715px;
+    color: whitesmoke;
+}
+.heading {
+    font-family: 'Lato';
+    font-style: normal;
+    top: 232px;
+    left: 217px;
+    position: absolute;
+    font-size: 65px;
+    line-height: 100px;
+    font-weight: 900;
+    width:700px;
+    height: 200px;
+    color: #F5F9FC;
+    
+}
+.k{
+    box-sizing: border-box;
+    position: absolute;
+    height: 1px;
+    left: 217px;
+    right: 0px;
+    top: 752px;
+    width: 299px;
+    bottom: 74px;
+    opacity: 0.35;
+    border: 1px solid #FFFFFF;
+    
+
+}
+
+.last{
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.last{
+    position: absolute;
+    left: 217px;
+    top: 785px;
+    width: 236px;
+
+}
