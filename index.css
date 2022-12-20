@@ -1,17 +1,16 @@
 body {
-position:unset;
-width: 1440px;
-height: 900px;
-left: 0px;
-top: 0px;
-background: linear-gradient(89.99deg, #269486 0.01%, #11574E 133.95%);
-height: 1385px;
-    
+    position: unset;
+    width: 1440px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(89.99deg, #269486 0.01%, #11574E 133.95%);
+    height: 1385px;
+
 }
 
 .navbar {
     display: inline-block;
-    border: 2px solid black;
     width: 1583px;
     margin-left: -12px;
     margin-top: -9px;
@@ -19,7 +18,8 @@ height: 1385px;
     background-color: #17786C;
     background-repeat: no-repeat;
 }
-.txt{
+
+.txt {
     position: absolute;
     top: 544px;
     left: 217px;
@@ -29,18 +29,21 @@ height: 1385px;
     font-family: 'Lato';
     font-style: normal;
 }
+
 .navbar h4 {
     display: inline-block;
     margin-left: 125px;
     color: white;
 
 }
-.b button a{
+
+.b button a {
     text-decoration: none;
     color: black;
 }
-.b button:hover{
-cursor: pointer;
+
+.b button:hover {
+    cursor: pointer;
 }
 
 .navbar a {
@@ -72,8 +75,8 @@ cursor: pointer;
     bottom: 2.33px;
 
 }
-.b button
-{
+
+.b button {
     position: absolute;
     top: 611px;
     left: 217px;
@@ -85,6 +88,7 @@ cursor: pointer;
     font-size: 17px;
     line-height: 25px;
 }
+
 .position {
     position: absolute;
     font-family: 'Lato';
@@ -97,12 +101,14 @@ cursor: pointer;
     text-transform: uppercase;
     color: #F5F9FC;
 }
-.b span{
+
+.b span {
     position: absolute;
     left: 217px;
     top: 715px;
     color: whitesmoke;
 }
+
 .heading {
     font-family: 'Lato';
     font-style: normal;
@@ -112,12 +118,13 @@ cursor: pointer;
     font-size: 65px;
     line-height: 100px;
     font-weight: 900;
-    width:700px;
+    width: 700px;
     height: 200px;
     color: #F5F9FC;
-    
+
 }
-.k{
+
+.k {
     box-sizing: border-box;
     position: absolute;
     height: 1px;
@@ -128,18 +135,590 @@ cursor: pointer;
     bottom: 74px;
     opacity: 0.35;
     border: 1px solid #FFFFFF;
-    
+
 
 }
 
-.last{
+.last {
     color: whitesmoke;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.last{
+
+.last {
     position: absolute;
     left: 217px;
     top: 785px;
     width: 236px;
 
+}
+
+.dr {
+    position: absolute;
+    top: 959px;
+    left: 0px;
+    background: linear-gradient(90deg, #FFFFFF 26.01%, rgba(255, 255, 255, 0) 65.83%), url(thought-catalog-23KdVfc395A-unsplash.jpg);
+}
+
+.txt3 {
+    top: 1085px;
+    width: 556px;
+    position: absolute;
+    left: 217px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 60px;
+}
+
+.sox {
+    box-sizing: border-box;
+    position: absolute;
+    width: 360px;
+    height: 1px;
+    left: 217px;
+    top: 1250px;
+    opacity: 0.35;
+    border: 1px solid rgba(5, 39, 39, 0.5);
+    box-sizing: border-box;
+
+}
+.mox{
+    position: absolute;
+    width: 120px;
+    color: black;
+    background-color: black;
+    left: 217px;
+    opacity: 0.5;
+    top: 1250px;
+    border: 0.5px solid #052727;
+}
+.we{
+    position: absolute;
+    width: 459px;
+    top: 1284px;
+    left: 217px;
+    font-size: 15px;
+}
+.bt{
+    top: 1400px;
+    position: absolute;
+    left: 217px;
+    width: 119px;
+    background-color: transparent;
+    color: transparent;
+}
+.annie{
+    top: 1700px;
+    position: absolute;
+    left: 860px;
+}
+.bt a{
+    font-size: 20px;
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+.an span{
+    position: absolute;
+    top: 1806px;
+    left: 217px;
+    color: white;
+    font-size: 15px;
+}
+.ab{
+    position: absolute;
+    top: 1835px;
+    color: white;
+    font-size: 60px;
+    left: 217px;
+    font-weight: 900;
+    font-style: normal;
+    font-family: inherit;
+}
+.bada{
+    position: absolute;
+    top: 1930px;
+    left: 217px;
+    color: white;
+    width: 440px;
+}
+.yup button{
+    position: absolute;
+    top: 2103px;
+    left: 217px;
+    background-color: #0080001a;
+    font-size: 23px;
+    border: none;
+}
+.yup a{
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+.dental{
+    color: whitesmoke;
+    position: absolute;
+    top: 1806px;
+    left: 850px;
+    font-size: x-large;
+    font-family: fangsong;
+    font-weight: bolder;
+}
+.dend{
+    color: whitesmoke;
+    position: absolute;
+    top: 1850px;
+    left: 850px;
+    width: 234px;
+}
+.no2{
+    position: absolute;
+    top: 1700px;
+    left: 1200px;
+}
+.temp{
+    color: whitesmoke;
+    position: absolute;
+    top: 1806px;
+    left: 1182px;
+    font-size: x-large;
+    font-family: fangsong;
+    font-weight: bolder;
+
+}
+.goom{
+    color: whitesmoke;
+    position: absolute;
+    top: 1850px;
+    left: 1182px;
+    width: 234px;
+}
+.no3{
+    top: 1980px;
+    position: absolute;
+    left: 860px;
+
+}
+.moon{
+    color: whitesmoke;
+    position: absolute;
+    top: 2075px;
+    left: 850px;
+    font-size: x-large;
+    font-family: fangsong;
+    font-weight: bolder;
+}
+.sun{
+    color: whitesmoke;
+    position: absolute;
+    top: 2121px;
+    left: 850px;
+    width: 234px;
+}
+.no4{
+    position: absolute;
+    top: 1980px;
+    left: 1200px;
+
+}
+.boom{
+    color: whitesmoke;
+    position: absolute;
+    top: 2075px;
+    left: 1182px;
+    font-size: x-large;
+    font-family: fangsong;
+    font-weight: bolder;
+}
+.doom{
+    color: whitesmoke;
+    position: absolute;
+    top: 2121px;
+    left: 1182px;
+    width: 234px;
+}
+.bk1{
+    position: absolute;
+    top: 2310px;
+}
+.bk1 img{
+    width: 100%;
+    height: 730px;
+}
+.enabler{
+    position: absolute;
+    top: 2471px;
+    left: 213px;
+    width: 330px;
+    font-size: 44px;
+    font-weight: 900;
+}
+.m{
+    position: absolute;
+    top: 2588px;
+    left: 213px;
+    width: 505px;
+
+}
+.n{
+    position: absolute;
+    top: 2666px;
+    left: 213px;
+    width: 505px;
+    font-size: 22px;
+    font-weight: 600;
+}
+.noon li{
+list-style: none;
+}
+.rox{
+    position: absolute;
+    top: 2722px;
+    text-decoration: none;
+    left: 213px;
+    box-sizing: border-box;
+    width: 18px;
+    height: 18px;
+    border-radius: 100%;
+    border: 4px solid #281C08;
+}
+.uper{
+    position: absolute;
+    top: 2722px;
+    left: 250px;
+
+}
+.form{
+    position: absolute;
+    top: 2310px;
+    left: 893px;
+    width: 686px; 
+    position: absolute;
+    top: 2310px;
+    height: 730px;
+}
+.do{
+    position: absolute;
+    top: 2354px;
+    left: 1000px;
+    color: whitesmoke;
+    font-size: larger;
+
+}
+.input1{
+    position: absolute;
+    top: 2390px;
+    left: 1000px;
+}
+.input1 input{
+    width: 330px;
+    height: 30px;
+}
+.nexer{
+    position: absolute;
+    top: 2990px;
+    left: 1069px;
+    width: 346px;
+}
+.nexer button{
+    text-decoration: none;
+    font-size: 18px;
+}
+.nexer button a{
+    text-decoration: none;
+    color: black;
+}
+.von{
+    position: absolute;
+    top: 3200px;
+    color: whitesmoke;
+    left: 217px;
+    font-size: 55px;
+    font-weight: bolder;
+    font-style: inherit;
+}
+.no5{
+    position: absolute;
+    top: 3340px;
+    left: 217px;
+}
+.con{
+    position: absolute;
+    top: 3490px;
+    color: whitesmoke;
+    left: 406px;
+    width: 340px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 55px;
+    line-height: 60px;
+}
+.xon{
+    position: absolute;
+    top: 3340px;
+    font-family: 'Lato';
+    font-style: normal;
+    width: 500px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    color: #E8F4F3;
+    left: 906px;
+
+}
+.zon{
+    position: absolute;
+    top: 3343px;
+    font-size: 21px;
+    opacity: 0.5;
+    left: 517px;
+}
+.map{
+    position: absolute;
+    top: 4000px;
+    left: 833px;
+}
+.no6{
+    position: absolute;
+    top: 3999px;
+}
+.no6 img{
+    width: 825px;
+    height: 723px;
+
+}
+.map img{
+    width: 750px;
+}
+.aon{
+    position: absolute;
+    left: 217px;
+    top: 4113px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 70px;
+    line-height: 75px;
+}
+.don{
+    position: absolute;
+    left: 217px;
+    top: 4199px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+    width: 364px;
+    height: 30px;
+    font-size: 26px;
+}
+.no7{
+    position: absolute;
+    left: 217px;
+    top: 4281px;
+
+}
+.no8{
+    position: absolute;
+    left: 222px;
+    top: 4280px;
+
+}
+.fon{
+    position: absolute;
+    left: 250px;
+    top: 4265px;
+    width: 220px;
+    font-size: 19px;
+    
+}
+.no9{
+    position: absolute;
+    left: 217px;
+    top: 4373px;
+
+}
+.no10{
+    position: absolute;
+    left: 217px;
+    top: 4369px;
+
+}
+.gon{
+    position: absolute;
+    left: 250px;
+    top: 4367px;
+    font-size: 21px;
+}
+.no11{
+    position: absolute;
+    left: 217px;
+    top: 4456px;
+
+}
+.hon{
+    position: absolute;
+    left: 263px;
+    top: 4451px;
+    font-size: 21px;
+}
+.uon{
+    position: absolute;
+    left: 146px;
+    top: 4587px;
+
+}
+.ion{
+    position: absolute;
+    left: 410px;
+    top: 4587px;
+
+}
+.ion button a{
+    text-decoration: none;
+    font-size: 21px;
+    color: black;
+    
+   
+}
+.uon button a{
+    text-decoration: none;
+    font-size: 21px;
+    color: black;
+}
+.uon button{
+    background-color: rgba(0, 0, 0, 0.154);
+    
+}
+.ion button{
+    background-color: rgba(0, 0, 0, 0.154);
+}
+.ion button a:hover{
+    background-color: rgba(0, 0, 0, 0.091);
+
+}
+.uon button a:hover{
+    background-color: rgba(0, 0, 0, 0.091);
+
+}
+.qoz{
+    position: absolute;
+    left: 217px;
+    top: 120px;
+    font-size: xxx-large;
+    color: whitesmoke;
+}
+.woz{
+    position: absolute;
+    left: 217px;
+    top: 200px;
+    width: 441px;
+    font-size: 24px;
+    color: whitesmoke;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+}
+.qow{
+    position: absolute;
+    left: 6px;
+    top: 4722px;
+    width: 1577px;
+    height: 666px;
+}
+.hog
+{
+    position: absolute;
+    left: 217px;
+    top: 547px;
+    font-size: x-large;
+    color: whitesmoke;
+}
+.last2{
+    position: absolute;
+    left: 770px;
+    top: 200px;
+    color: whitesmoke;
+
+}
+.last3{
+    position: absolute;
+    left: 770px;
+    top: 250px;
+    color: whitesmoke;
+
+}
+.last4{
+    position: absolute;
+    left: 770px;
+    top: 300px;
+    color: whitesmoke;
+
+}
+.last5{
+    position: absolute;
+    left: 770px;
+    top: 350px;
+    color: whitesmoke;
+
+}
+.last6{
+        position: absolute;
+        left: 1149px;
+        top: 140px;
+        font-size: x-large;;
+        color: whitesmoke;
+    
+    }
+.last1{
+        position: absolute;
+        left: 770px;
+        top: 140px;
+        font-size: x-large;;
+        color: whitesmoke;
+    
+    }
+.last7{
+    position: absolute;
+    left: 1150px;
+    top: 200px;
+    color: whitesmoke;
+}
+.last8{
+    position: absolute;
+    left: 1150px;
+    top: 230px;
+    color: whitesmoke;
+}
+.last9{
+    position: absolute;
+    left: 1150px;
+    top: 260px;
+    color: whitesmoke;
+}
+.last10{
+    position: absolute;
+    left: 1150px;
+    top: 290px;
+    color: whitesmoke;
+}
+.last11{
+    position: absolute;
+    left: 1150px;
+    top: 320px;
+    color: whitesmoke;
+}
+.last12{
+    position: absolute;
+    left: 1150px;
+    top: 350px;
+    color: whitesmoke;
+}
+.last13{
+    position: absolute;
+    left: 1150px;
+    top: 380px;
+    color: whitesmoke;
 }
